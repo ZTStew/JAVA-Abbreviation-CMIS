@@ -1,1 +1,1 @@
-Program takes a string/sentence and then abreviates any words greater than 5 letters long by only listing the first letter of the word followed by the number of letters being removed and then followed by the last letter of the word.
+Program takes a string/sentence and then abbreviates any words greater than 5 letters long by only listing the first letter of the word followed by the number of letters being removed and then followed by the last letter of the word.
